@@ -23,7 +23,7 @@ Modified from alestry-perez's [template](https://github.com/alestry-perez/vite-r
 Install my-project with npm
 
 ```bash
-npx degit https://gitlab.com/templates2415036/vite-react-daisy.git my-app
+npx degit https://github.com/lymperis-e/vite-react-daisy.git my-app
 ```
 
 Access the project directory.
