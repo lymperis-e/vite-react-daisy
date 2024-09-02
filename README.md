@@ -4,7 +4,9 @@ A very minimal starter template for a quick start.
 
 ## Authors
 
-- [@alestry perez](https://www.github.com/alestry-perez)
+- [@elymperis](https://www.github.com/lymperis-e)
+
+Modified from alestry-perez's [template](https://github.com/alestry-perez/vite-react-tailwind)
 
 ## Tech Stack
 
